@@ -4,7 +4,7 @@ import React from 'react';
 export default function Footer() {
     return (
         <div>
-          <h3>-Footer Area-</h3>
+          <h6>-Footer Area- Built by Xnd0 -Footer Area-</h6>
         </div>
     )
 };
