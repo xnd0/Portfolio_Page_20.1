@@ -1,4 +1,5 @@
 import React from 'react';
+import pic from './2Space_Surfer.png'
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <p>
         Please use the tabs to navigate and learn more.
       </p>
+      <img src= {pic} alt="spaceman surfing"   />
       <br></br>
       <br></br>
     </div>
