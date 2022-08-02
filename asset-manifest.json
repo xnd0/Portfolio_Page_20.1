@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.com/static/css/main.4835bb11.css",
+    "main.js": "/github.com/static/js/main.6ad0e2de.js",
+    "static/media/Figjam_SS1.png": "/github.com/static/media/Figjam_SS1.7fa10fca86db92efe646.png",
+    "static/media/2Space_Surfer.png": "/github.com/static/media/2Space_Surfer.81dac58c1a9c84e58a8f.png",
+    "index.html": "/github.com/index.html",
+    "main.4835bb11.css.map": "/github.com/static/css/main.4835bb11.css.map",
+    "main.6ad0e2de.js.map": "/github.com/static/js/main.6ad0e2de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4835bb11.css",
+    "static/js/main.6ad0e2de.js"
+  ]
+}
