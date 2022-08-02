@@ -5,6 +5,7 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
     background-color: #f0f0f0 ;
+    /* background-image: linear-gradient(#f0f0f0, rgb(155, 155, 155)); */
 }
 
 body {
